@@ -1,0 +1,63 @@
+html
+{
+ scroll-behavior: smooth;
+}
+header
+{
+background-color: black; 	
+padding-top: 0px;
+padding-left: 0px;
+
+}
+.abo
+{
+scroll-behavior: smooth(2s);
+
+}
+
+.p1
+{
+	background-color: black;
+	clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 70% 85%, 0 100%);
+}
+.f1
+{
+	color: #7FFFD4;
+	font-size: 40px;
+}
+.data
+{
+	background-color: #F4F4F4;
+}
+.data2
+{
+	background-color: white;
+}
+.fot
+{
+	background-color: black;
+	
+}
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+  width: 5em;
+  height: 5em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: #4691f6;
+}
+
+.svg-icon circle {
+  stroke: #4691f6;
+  stroke-width: 1;
+}
+.ml-3 
+{
+	text-decoration-color: white;
+}
